@@ -1,0 +1,2 @@
+# microservices-django-reactjs
+DIGEST AFRICA MICROSERVICES ARCHITECTURE
